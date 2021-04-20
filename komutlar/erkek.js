@@ -34,4 +34,4 @@ exports.conf = {
 exports.help = {
   name: 'Erkek',
 
-}
+}beT4 sex partnerim :DD
